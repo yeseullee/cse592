@@ -6,6 +6,7 @@ It will make everyone's life a whole lot easier :D
 
 ## Assignment: Make a Doodle
 ### Title: Magical Straw
+
 The problem is, it is not always fun to drink with straws.
 So, if you want to make it more fun to drink with straws, 
 my idea is to make it work like a shower spray in your mouth!
