@@ -13,4 +13,4 @@ I would like to test my technology with kids (6 and higher).
 They would drink soda/water/juice with the magical straw and see how they use it.
 I think they would love it. 
 My success would be if most people like to use it, and do not have any problem with it. 
-![image](https://github.com/yeseullee/cse592/blob/master/20170128_183145-1.jpg?raw=true)
+![image](https://raw.githubusercontent.com/yeseullee/cse592/master/20170128_183145-1.jpg)
