@@ -1,20 +1,16 @@
 # Welcome to cse592 page for Yeseul
 
-My goal is to study, come up with and make great ideas like below.
-It will make everyone's life a whole lot easier :D
-![image](https://s-media-cache-ak0.pinimg.com/564x/3b/ea/ac/3beaac113effc2169aa33e278205ccc6.jpg)
+My goal is to study, come up with and make great ideas, helping everyone's life become easier and better. :D
 
-# Assignment 3: Photocell
+![image](https://s-media-cache-ak0.pinimg.com/236x/80/2d/25/802d25eb63d512164e5f4fd88983bb95.jpg)
 
-[Link](https://anjalymehla.github.io/assignment2_2.html).
+# Assignment 3 - part 1: [Arduino Box Design](asnt3)
 
-# Assignment 2: LED
+# Assignment 2 - part 2: [Photocell](https://anjalymehla.github.io/assignment2_2.html)
 
-[Link](asnt2).
+# Assignment 2: [LED](asnt2)
 
-# Assignment 1: Doodle
-
-[Link](asnt1).
+# Assignment 1: [Doodle](asnt1)
 
 
 
