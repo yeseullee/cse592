@@ -4,6 +4,8 @@ My goal is to study, come up with and make great ideas, helping everyone's life 
 
 ![image](https://s-media-cache-ak0.pinimg.com/236x/80/2d/25/802d25eb63d512164e5f4fd88983bb95.jpg)
 
+# Assignment 4 - part 1: [Design & Render 3D Mouse](asnt4a)
+
 # Assignment 3 - part 2: [Design 2D Fabrication](asnt3b)
 
 # Assignment 3 - part 1: [Arduino Box Design](asnt3)
