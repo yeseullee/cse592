@@ -3,6 +3,7 @@
 My goal is to study, come up with and make great ideas, helping everyone's life become easier and better. :D
 
 ![image](https://s-media-cache-ak0.pinimg.com/236x/80/2d/25/802d25eb63d512164e5f4fd88983bb95.jpg)
+# Assignment 4 - part 2: [Make your mouse using 3D printer](asnt4b)
 
 # Assignment 4 - part 1: [Design & Render 3D Mouse](asnt4a)
 
