@@ -4,9 +4,12 @@ My goal is to study, come up with and make great ideas, helping everyone's life 
 
 ![image](https://s-media-cache-ak0.pinimg.com/236x/80/2d/25/802d25eb63d512164e5f4fd88983bb95.jpg)
 
+
+
 # Assignment 6: [Comms and Viz](https://anjalymehla.github.io/assignment5.2.html)
 
 # Assignment 5: [Sketching Final Project](asnt5)
+## For the final project, I will be working with my awesome project partner, Anjaly. Here's a link to her [page](https://anjalymehla.github.io/)
 
 # Assignment 4 - part 2: [Make your mouse using 3D printer](asnt4b)
 
