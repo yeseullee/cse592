@@ -11,8 +11,8 @@ Then we added the navigation view (which opens up when the user slides the scree
 <img src="p1_screenshot3.png" width="300">
 <img src="p1_screenshot4.png" width="300">
 
-Moreover, se have developed backend storage using Sqllite database to store information user put in regarding items. It's in-app data storage facility and we created a item table in the db. The table contains 7 columns as defined below. The key_id is the primary key which identifies each item uniquely. 
-```Java
+Moreover, we have developed backend storage using Sqllite database to store information user put in regarding items. It's in-app data storage facility and we created a item table in the db. The table contains 7 columns as defined below. The key_id is the primary key which identifies each item uniquely. 
+```java
 String KEY_ID = "id";
 String ITEM_NAME = "itemname";
 String ITEM_CATEGORY = "itemcategory";
@@ -32,7 +32,7 @@ We check if the user has already given us permission, if yes, we  request
 location update and store latitude and longitude, if not , we ask user to authorize us to use location
 
 Code Sample :
-```Java
+```java
 ActivityCompat.requestPermissions(this, new String[] {
                 Manifest.permission.ACCESS_FINE_LOCATION,
                 Manifest.permission.ACCESS_COARSE_LOCATION },1);
