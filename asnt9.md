@@ -18,4 +18,4 @@ This will show us which gender is more likely to use our app and further, imply 
 Our experiment is correlational because we would like to study the pattern between male and female users as well as the usefulness of our app.
 
 This is a link for participants to fill out at the end of the experiment:
-https://docs.google.com/forms/d/e/1FAIpQLSe5041eoDFRrUOaObOhPDGiRkO6tQOsAZ65ZbjPX-O27lRomg/viewform
+[link](https://docs.google.com/forms/d/e/1FAIpQLSe5041eoDFRrUOaObOhPDGiRkO6tQOsAZ65ZbjPX-O27lRomg/viewform)
