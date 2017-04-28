@@ -1,4 +1,4 @@
-# Final Assignment: The Final Prototype and The User Study Data
+# The Final Assignment: The Final Prototype and The User Study Data
 
 ## The Final Protype
 [Click Me For An Awesome Prototype Video :)](https://drive.google.com/open?id=0B1enmDZ1iw8xY294VGE4ZVltd1k)
