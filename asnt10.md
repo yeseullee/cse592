@@ -4,7 +4,7 @@
 [Click Me For An Awesome Prototype Video :)](https://drive.google.com/open?id=0B1enmDZ1iw8xY294VGE4ZVltd1k)
 
 ## The User Study
-For the user study, we performed two tests to each user. For each test they were given 6 items.
+For the user study, we performed within-subjects test, which is two tests for each participant. One test was to see how long they take to place and retrieve an item using a memo. The other test was to see how long they take to do the same with our app. For each test they were given 6 items.
 
 The first test was
 1. Place the items in the building and write down on a memo where you placed them for your memory.
@@ -14,9 +14,8 @@ The second test was
 1. Place the items and use our app to place where it is.
 2. Retrieve the items.
 
-The difference between those two tests was using memo and app. 
-Previously, we were planning to let the user just remember, 
-but because those two tests are not good comparisons, we decided to compare using notes and our app.
+Our user study is experimental because we are testing the usage of our app compared to notes. It is also correlational study because we want to see the difference in performace between gender groups.
+
 
 In total, we had 6 participants, two of them were female and four of them were male.
 
@@ -24,6 +23,7 @@ In total, we had 6 participants, two of them were female and four of them were m
 ![table](https://raw.githubusercontent.com/yeseullee/cse592/master/table.png)
 
 As you can see, two of our users did not complete the last step by accident.
+
 
 <img src="mean-and-std-of-experiment.png" width="600">
 
