@@ -1,8 +1,9 @@
 # Final Assignment: The Final Prototype and The User Study Data
 
-## Final Protype
-[Click Me For An Awesome Prototype Video :)](https://drive.google.com/a/cs.stonybrook.edu/file/d/0B1enmDZ1iw8xTVdGZGpXVEl5bnM/view?usp=sharing)
+## The Final Protype
+[Click Me For An Awesome Prototype Video :)](https://drive.google.com/open?id=0B1enmDZ1iw8xY294VGE4ZVltd1k)
 
+## The User Study
 For the user study, we performed two tests to each user. For each test they were given 6 items.
 
 The first test was
@@ -33,10 +34,11 @@ most users stated in the survey that it was easy to use.
 
 ## Examples of User Usage
 This is an example of the list view and the map view used by a user.
+The user placed the items at different locations within the ncs building.
 
 <img src="ustudy_screenshot1.png" width="300"> <img src="ustudy_screenshot2.png" width="300">
 
-This is another example.
+This is another example. All 6 items were placed at the same location because the locations were very close by.
 
 <img src="ustudy_screenshot3.png" width="300"> <img src="ustudy_screenshot4.png" width="300">
 
@@ -46,9 +48,9 @@ This is another example.
 <img src="MFStdev.png" width="600">
 
 Average time taken by female participants is less that time taken 
-by male participants in all four cases suggesting they are quick in collecting things. 
-With the data collected using form, we found out that female participant tend not to forget things (less than 25%)
-whereas the majority male population tend to forget things often going with between 25%-75%.
+by male participants in all four cases, suggesting they are quick in collecting things. 
+With the data collected using the survey, we found out that female participant tend not to forget things (less than 25% of the times)
+whereas the majority male population tend to forget things often (25%-75% of the times).
 
 ## Survey Results
 <img src="gender.png" width="600">
@@ -64,4 +66,5 @@ whereas the majority male population tend to forget things often going with betw
 <img src="feedback.png" width="400">
 
 Thanks!
+
 Anjaly & Yeseul
