@@ -32,6 +32,11 @@ while placing took the same amount of time as the first placing.
 This made our application appear hard to use, but you will see later, 
 most users stated in the survey that it was easy to use.
 
+T-value for fetching with app vs. memo
+is 1.42601 and p value is 0.101879. This is calculated using 4 data points, without the missing data. 
+
+The T-value is not so significant hence the inital hypothesis that fetching with app will be faster rather than with memo is not confirmed. 
+
 ## Examples of User Usage
 This is an example of the list view and the map view used by a user.
 The user placed the items at different locations within the ncs building.
