@@ -1,11 +1,8 @@
-# Welcome to cse592 page for Yeseul Lee
-The course name is New Human Factors in Computing. In case you are interested, here's a link  to the [page](http://hi.cs.stonybrook.edu/cse592).
+# Welcome to HCI Project Page for Yeseul Lee
 
-My goal for this course is to study, come up with and make great ideas to help everyone. :D
+### I took a course called New Human Factors in Computing and made this page for the projects I did in the class. In case you are interested, here's a link  to [the course page](http://hi.cs.stonybrook.edu/cse592).
 
-![image](https://s-media-cache-ak0.pinimg.com/236x/80/2d/25/802d25eb63d512164e5f4fd88983bb95.jpg)
-
-### From this course, I made an Android app called "Foundit" that helps you find your stuff. Look below to see the designing and making process behind it.
+### From this course, I made an Android app called "Foundit" that helps you find your stuff. Look below to see the process of creating the app from designing to implementing and finally, doing a user study experiment using the app.
 
 ## Here are the latest works from class.
 ### Presentation Slides: [Foundit](https://docs.google.com/presentation/d/1Ppb-9IjQUDYJbhFRRMHGv0SQw1CVbDq7E9k0TOlZwNk/edit?usp=sharing)
